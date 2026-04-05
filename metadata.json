@@ -1,0 +1,7 @@
+{
+  "name": "Azure Reserve",
+  "description": "A high-end editorial hospitality and luxury travel booking application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
